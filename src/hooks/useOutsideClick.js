@@ -18,5 +18,5 @@ export function useOutsideClick(close) {
     [close]
   );
 
-  return ref
+  return ref;
 }
