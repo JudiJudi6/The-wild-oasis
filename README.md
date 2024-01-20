@@ -2,7 +2,7 @@
 
 ## About the project
 
-This is project from The Ultimate React Course 2024: React, Redux & More by Jonas Schmedtmann - https://www.udemy.com/course/the-ultimate-react-course/
+**This is main project from The Ultimate React Course 2024: React, Redux & More by Jonas Schmedtmann** - https://www.udemy.com/course/the-ultimate-react-course/
 
 The project is a simulation of a hotel operating application, allows you to add new cabins, service guests, includes charts and statistics of specific dates. The project includes login, user management and database made with the help of Supabase.
 
