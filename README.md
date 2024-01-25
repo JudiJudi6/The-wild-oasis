@@ -6,6 +6,14 @@
 
 The project is a simulation of a hotel operating application, allows you to add new cabins, service guests, includes charts and statistics of specific dates. The project includes login, user management and database made with the help of Supabase.
 
+## Build with
+
+[![React](https://img.shields.io/badge/React-16-blue.svg)](https://reactjs.org/) - React Query, React Router, Recharts, React hook form and more libs.
+
+[![Styled Components](https://img.shields.io/badge/Styled_Components-5.3.0-orange.svg)](https://styled-components.com/)
+
+[![Supabase](https://img.shields.io/badge/Supabase-1.0.0-blue.svg)](https://supabase.io/)
+
 ### Dashboard
 ![Dashboard](./public/dashboard.jpg)
 
@@ -17,14 +25,6 @@ The project is a simulation of a hotel operating application, allows you to add 
 
 ### User settings
 ![User settings](./public/user.jpg)
-
-## Build with
-
-[![React](https://img.shields.io/badge/React-16-blue.svg)](https://reactjs.org/) - React Query, React Router, Recharts, React hook form and more libs.
-
-[![Styled Components](https://img.shields.io/badge/Styled_Components-5.3.0-orange.svg)](https://styled-components.com/)
-
-[![Supabase](https://img.shields.io/badge/Supabase-1.0.0-blue.svg)](https://supabase.io/)
 
 ## How to run
 Supabase shuts down the database after 2 weeks of inactivity so the project will probably not function properly.
